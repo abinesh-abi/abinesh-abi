@@ -3,15 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abinesh-abi&label=Profile%20views&color=0e75b6&style=flat" alt="abinesh-abi" /> </p>
 
-<p align="center">
 - 🌱 I’m currently learning **MERN Stack @Brocamp**
-</p>
-<p align="center">
 - 💬 Ask me about **nodejs, react, mongoDB, expressjs, docker, git**
-</p>
-<p align="center">
 - 📫 How to reach me **abinesh1729@gmail.com**
-</p>
 
 
 
